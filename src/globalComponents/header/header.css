@@ -3,12 +3,12 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    background-color: #8383ff;
 }
 
-.logo-container{
+.cloud-logo{
     height: 50px;
     width: 50px;
-    background-color: blue;
 }
 
 .header-button__icon{
@@ -22,7 +22,7 @@
     align-items: center;
     height: 40px;
     width: 40px;
-    background-color: #ffffff;
+    background-color: #ffffffc4;
     border: none;
     border-radius: 50%;
     cursor: pointer;
@@ -34,7 +34,7 @@
 }
 
 .header-buttons__container{
-    width: 10%;
+    gap: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
