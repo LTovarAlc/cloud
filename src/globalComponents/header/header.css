@@ -3,12 +3,13 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: #8383ff;
+    background-color: #000;
+    padding: 10px 0px;
 }
 
 .cloud-logo{
-    height: 50px;
-    width: 50px;
+    height: auto;
+    width: 100px;
 }
 
 .header-button__icon{
